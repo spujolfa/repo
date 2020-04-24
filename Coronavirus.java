@@ -34,3 +34,9 @@ public class Coronavirus{
         Coronavirus c = new Coronavirus();
     }
 }
+public class covid19 extends Coronavirus{
+    private int diesDeQuarentena;
+    public covid19(){
+        this.diesDeQuarentena = 0
+    }
+}
