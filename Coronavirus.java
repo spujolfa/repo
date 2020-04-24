@@ -29,4 +29,8 @@ public class Coronavirus{
          return false;
      }
  }
+	public static void main(String[] args) {
+        // TODO code application logic here
+        Coronavirus c = new Coronavirus();
+    }
 }
